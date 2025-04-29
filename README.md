@@ -23,7 +23,7 @@ Bố cục website xóa nền ảnh sử dụng API remove.bg bao gồm các tra
 - [PhotoRoom](https://www.photoroom.com/tools/background-remover)
 
 **Tác giả**
-- [Nguyễn Hoàng Tâm](https://github.com/nghtamm2003)
+- [Nguyễn Hoàng Tâm](https://github.com/nghtamm)
 	
 ## Techstack
 - HTML + CSS
